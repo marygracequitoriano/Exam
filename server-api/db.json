@@ -1,0 +1,20 @@
+{
+  "register": [
+    {
+      "firstName": "User1",
+      "MiddleName": "Sample",
+      "LastName": "Test",
+      "Emailaddress": "test@gmail.com",
+      "ContactNumber": "09615689626",
+      "id": 1
+    },
+    {
+      "firstName": "Grace",
+      "MiddleName": "Hehe",
+      "LastName": "Quitoriano",
+      "Emailaddress": "haha@gmail.com",
+      "ContactNumber": "09136523565",
+      "id": 2
+    }
+  ]
+}
