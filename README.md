@@ -20,6 +20,6 @@ to run the server-api
 to run the Front-End
 - npm start
 
-First fill up the registration form
-Second click Register Button
-Third click Register user to see details
+-First fill up the registration form
+-Second click Register Button
+-Third click Register user to see details
